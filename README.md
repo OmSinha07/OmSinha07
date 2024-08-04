@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://omsinha07.github.io/Portfolio_website/](https://omsinha07.github.io/Portfolio_website/)
+- 👨‍💻 All of my projects are available at [https://omportfolio07.netlify.app/](https://omportfolio07.netlify.app/)
 
 - 💬 Ask me about **numpy,seaborn,pandas,scikit-learn**
 
