@@ -1,7 +1,7 @@
 <p align="center"><img src='https://78.media.tumblr.com/f92b629e0ce28ac8d4c7d375493114bc/tumblr_p87k4vslQz1r38ekmo1_500.gif' width='750px'></p>
-<p align = "center">
+
 <h1 align="center">Hi 👋, I'm OM SINHA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsinha07&label=Profile%20views&color=0e75b6&style=flat" alt="omsinha07" /> </p>
 
@@ -9,15 +9,58 @@
 
 <p align="left"> <a href="https://twitter.com/om86915424" target="blank"><img src="https://img.shields.io/twitter/follow/om86915424?logo=twitter&style=for-the-badge" alt="om86915424" /></a> </p>
 
-- 🔭 I’m currently working on **Spam/Ham Project**
+---
 
-- 🌱 I’m currently learning **Spring,Springboot,NodeJS**
+### 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 🔭 Currently building an integrated **Spring Boot + AI/ML** project  
+- 🌱 Learning: **Spring, Spring Boot, Node.js**
+- 👯 Open to collaborating on **Open Source & Backend Projects**
+- 💼 **Java Developer Lead** at **eLabs**, my university's technical society
+- 👨‍💻 All my work: [omportfolio07.netlify.app](https://omportfolio07.netlify.app/)
+- 💬 Ask me about **NumPy, Seaborn, Pandas, scikit-learn, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://omportfolio07.netlify.app/](https://omportfolio07.netlify.app/)
+---
 
-- 💬 Ask me about **numpy,seaborn,pandas,scikit-learn**
+### 🛠️ Skills & Tools
+
+- **Languages**: Java, Python, JavaScript, HTML, CSS, SQL
+- **Frameworks**: Spring Boot, Flask, Node.js, React
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Tools**: Git, GitHub, MySQL, PostgreSQL, VS Code, Postman
+
+---
+
+### 📌 Notable Projects
+
+- **🛍️ Full-Stack E-Commerce Website** – Spring Boot + PostgreSQL  
+- **🧠 Preterm Birth Prediction (ML Project)** – XGBoost, CatBoost, SVM  
+- **📰 Microblog with Flask** – SQLAlchemy, Jinja Templates  
+- **🤖 Spam/Ham Classifier** – Text classification using NLP + Naive Bayes
+
+---
+
+### 🎓 Certifications & Achievements
+
+- 📜 Java Core Certification – Udemy
+- 🧠 AI/ML Internship – Pinnacle Labs
+- 🏆 Finalist – FinTech Olympiad
+- 🧑‍🏫 Java Instructor at eLabs
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 Portfolio: [omportfolio07.netlify.app](https://omportfolio07.netlify.app/)
+- 🔗 LinkedIn: [linkedin.com/in/om-sinha-3a3855238](https://linkedin.com/in/om-sinha-3a3855238)
+- 🐦 Twitter: [@om86915424](https://twitter.com/om86915424)
+
+  ⭐ *Let’s build, contribute, and grow together in tech!*
+
+---
+
+
+
 
 - 📫 How to reach me **omaasinha.99@gmail.com**
 
