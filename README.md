@@ -44,7 +44,7 @@
 
 - 📜 Java Core Certification – Udemy
 - 🧠 AI/ML Internship – Pinnacle Labs
-- 🏆 Finalist – FinTech Olympiad
+- 🏆 Flipkart Grid 6.O- Qualified till Round 2
 - 🧑‍🏫 Java Instructor at eLabs
 
 ---
@@ -61,10 +61,9 @@
 
 
 
-
 - 📫 How to reach me **omaasinha.99@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/19L3NK6vtmKkY132Jt9n0Sw6EXIuZ-224/edit?usp=drivesdk&ouid=101872556007102438436&rtpof=true&sd=true](https://docs.google.com/document/d/19L3NK6vtmKkY132Jt9n0Sw6EXIuZ-224/edit?usp=drivesdk&ouid=101872556007102438436&rtpof=true&sd=true)
+  
+- 📄 Know about my experiences: [View Resume (PDF)](https://drive.google.com/file/d/1XcWnAR0yDuyqBhzRyHbHnCO9Dsu0LJr4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
