@@ -49,6 +49,16 @@
 
 ---
 
+### 🎯 Interests
+
+- Data Science & Machine Learning  
+- Backend Development with Java & Spring Boot  
+- Open Source Contributions  
+- Teaching & Mentoring Tech Students  
+- Building Scalable Full-Stack Applications
+
+---
+
 ### 📫 Connect with Me
 
 - 🌐 Portfolio: [omportfolio07.netlify.app](https://omportfolio07.netlify.app/)
