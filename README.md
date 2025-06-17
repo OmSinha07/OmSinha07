@@ -43,7 +43,7 @@
 ### 🎓 Certifications & Achievements
 
 - 📜 Java Core Certification – Udemy
-- 🧠 AI/ML Internship – Pinnacle Labs
+- 🧠 AI/ML Training cum Internship –kataltyst LifeLong Learning 
 - 🏆 Flipkart Grid 6.O- Qualified till Round 2
 - 🧑‍🏫 Java Instructor at eLabs
 
